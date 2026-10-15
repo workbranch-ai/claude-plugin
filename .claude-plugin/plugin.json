@@ -1,6 +1,7 @@
 {
   "name": "workbranch",
-  "version": "0.1.1",
+  "displayName": "Workbranch",
+  "version": "0.1.2",
   "description": "Keep the outcome of your Claude sessions in Workbranch: tasks, decisions, open questions and ideas, filed into projects and folders with dates, and brought back when you start the next session.",
   "author": {
     "name": "Workbranch",
@@ -18,5 +19,9 @@
     "productivity",
     "workbranch"
   ],
-  "icon": "./.claude-plugin/icon.png"
+  "icon": "./.claude-plugin/icon.png",
+  "documentationUrl": "https://workbranch.ai/claude",
+  "supportUrl": "https://workbranch.ai/claude",
+  "privacyPolicyUrl": "https://workbranch.ai/privacy",
+  "termsOfServiceUrl": "https://workbranch.ai/terms"
 }
