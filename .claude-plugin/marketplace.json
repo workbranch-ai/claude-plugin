@@ -1,0 +1,15 @@
+{
+  "name": "workbranch",
+  "owner": {
+    "name": "Workbranch",
+    "email": "hi@workbranch.ai"
+  },
+  "description": "The Workbranch plugin for Claude",
+  "plugins": [
+    {
+      "name": "workbranch",
+      "source": "./",
+      "description": "Save tasks, decisions, questions and ideas from your sessions to Workbranch, and see what's open when you start the next one."
+    }
+  ]
+}

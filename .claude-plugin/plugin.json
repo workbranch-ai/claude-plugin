@@ -1,0 +1,14 @@
+{
+  "name": "workbranch",
+  "version": "0.1.0",
+  "description": "Keep the outcome of your Claude sessions in Workbranch: tasks, decisions, open questions and ideas, filed into projects and folders with dates, and brought back when you start the next session.",
+  "author": {
+    "name": "Workbranch",
+    "email": "hi@workbranch.ai",
+    "url": "https://workbranch.ai"
+  },
+  "homepage": "https://workbranch.ai",
+  "repository": "https://github.com/workbranch-ai/claude-plugin",
+  "license": "MIT",
+  "keywords": ["tasks", "decisions", "project management", "memory", "productivity", "workbranch"]
+}

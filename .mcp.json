@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "workbranch": {
+      "type": "http",
+      "url": "https://mcp.workbranch.ai/mcp"
+    }
+  }
+}
